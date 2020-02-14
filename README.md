@@ -36,6 +36,8 @@ app.UsePrerenderMiddlewareWithParams(prerenderOptions);
 That's it. 
 Go here to find out how to test. https://github.com/greengerong/Prerender_asp_mvc
 
+Leave comments here if you have questions.
+
 
 
 
