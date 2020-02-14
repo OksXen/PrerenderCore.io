@@ -6,7 +6,7 @@ Original: https://github.com/greengerong/Prerender_asp_mvc
 1. Download the project. 
 2. Build the project. 
 3. Reference the project in your .NET Core Web app. 
-4. Configure your appsettings.json and settings. 
+4. Configure your appsettings.json. 
 5. Configure your StartUp file. Code sample is below. 
 6. Test it locally using Prerender Node Server. 
 
