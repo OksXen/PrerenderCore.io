@@ -36,6 +36,10 @@ app.UsePrerenderMiddlewareWithParams(prerenderOptions);
 That's it. 
 Go here to find out how to test. https://github.com/greengerong/Prerender_asp_mvc
 
+
+
+
+
 Test locally using Prerender node server on Windows. https://github.com/prerender/prerender
 follow the steps here.
 
